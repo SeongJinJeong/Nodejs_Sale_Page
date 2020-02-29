@@ -1,0 +1,29 @@
+{
+  "name": "butcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "cd client && yarn start",
+    "both": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeongJinJeong/React_Sale_Page.git"
+  },
+  "author": "SeongJinJeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeongJinJeong/React_Sale_Page/issues"
+  },
+  "homepage": "https://github.com/SeongJinJeong/React_Sale_Page#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}

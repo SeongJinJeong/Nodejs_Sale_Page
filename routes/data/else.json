@@ -1,0 +1,12 @@
+[
+    {
+      "test": "Beef data get Completed",
+      "name": "beef",
+      "data": [
+        { "productName": "양지", "price": 20000, "grade":"1++" },
+        { "productName": "갈비", "price": 30000, "grade":"1+" },
+        { "productName": "등심", "price": 15000, "grade":"2" }
+      ]
+    }
+  ]
+  
