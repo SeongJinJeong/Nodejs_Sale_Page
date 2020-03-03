@@ -1,12 +1,29 @@
 [
-    {
-      "test": "Beef data get Completed",
-      "name": "beef",
-      "data": [
-        { "productName": "닭", "price": 5000, "grade":"1++", "sale":false},
-        { "productName": "오리", "price": 25000, "grade":"1+", "sale":true},
-        { "productName": "사골", "price": 15000, "grade":"2", "sale":true}
-      ]
-    }
-  ]
-  
+  {
+    "test": "Beef data get Completed",
+    "name": "beef",
+    "data": [
+      {
+        "productName": "닭",
+        "price": 5000,
+        "grade": "1++",
+        "sale": false,
+        "img": "./scriptImage/else/"
+      },
+      {
+        "productName": "오리",
+        "price": 25000,
+        "grade": "1+",
+        "sale": true,
+        "img": "./scriptImage/else/"
+      },
+      {
+        "productName": "사골",
+        "price": 15000,
+        "grade": "2",
+        "sale": true,
+        "img": "./scriptImage/else/"
+      }
+    ]
+  }
+]

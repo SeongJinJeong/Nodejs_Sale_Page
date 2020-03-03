@@ -3,9 +3,27 @@
     "test": "Beef data get Completed",
     "name": "beef",
     "data": [
-      { "productName": "양지", "price": 20000, "grade":"1++", "sale":true },
-      { "productName": "갈비", "price": 30000, "grade":"1+", "sale":false },
-      { "productName": "등심", "price": 15000, "grade":"2", "sale":false }
+      {
+        "productName": "양지",
+        "price": 20000,
+        "grade": "1++",
+        "sale": true,
+        "img": "./scriptImage/beef/yangji.jpg"
+      },
+      {
+        "productName": "갈비",
+        "price": 30000,
+        "grade": "1+",
+        "sale": false,
+        "img": "./scriptImage/beef/yangji.jpg"
+      },
+      {
+        "productName": "등심",
+        "price": 15000,
+        "grade": "2",
+        "sale": false,
+        "img": "./scriptImage/beef/yangji.jpg"
+      }
     ]
   }
 ]
