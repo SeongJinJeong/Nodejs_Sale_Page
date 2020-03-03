@@ -15,14 +15,14 @@
         "price": 30000,
         "grade": "1+",
         "sale": false,
-        "img": "./scriptImage/beef/yangji.jpg"
+        "img": "./scriptImage/beef/sogalbi.jpg"
       },
       {
         "productName": "등심",
         "price": 15000,
         "grade": "2",
         "sale": false,
-        "img": "./scriptImage/beef/yangji.jpg"
+        "img": "./scriptImage/beef/dungsim.jpg"
       }
     ]
   }
