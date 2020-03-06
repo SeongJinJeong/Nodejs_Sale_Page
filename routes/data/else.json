@@ -8,6 +8,7 @@
         "price": 5000,
         "grade": "1++",
         "sale": false,
+        "salePrice": 4000,
         "img": "./scriptImage/else/chicken.jpg"
       },
       {
@@ -15,6 +16,7 @@
         "price": 25000,
         "grade": "1+",
         "sale": true,
+        "salePrice": 20000,
         "img": "./scriptImage/else/duck.jpg"
       },
       {
@@ -22,6 +24,7 @@
         "price": 15000,
         "grade": "2",
         "sale": true,
+        "salePrice": 13000,
         "img": "./scriptImage/else/sagol.jpg"
       }
     ]
