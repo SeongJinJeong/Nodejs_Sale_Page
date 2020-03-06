@@ -31,4 +31,22 @@ router.get("/api/sale", (req, res) => {
   res.json(allData);
 });
 
+router.get("/api/search", (req, res) => {
+  const word = req.query.word;
+  const wordArray = [];
+  allData.map((value, index) => {
+    value.map((value, index) => {
+      const productName = value.productName;
+      if (productName.includes(word) == true) {
+        wordArray.push(value);
+      }
+    });
+  });
+  if (wordArray.length !== 0) {
+    res.json(wordArray);
+  } else {
+    res.send("no data");
+  }
+});
+
 module.exports = router; // 모듈로 만드는 부분
