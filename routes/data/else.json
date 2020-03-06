@@ -8,21 +8,21 @@
         "price": 5000,
         "grade": "1++",
         "sale": false,
-        "img": "./scriptImage/else/"
+        "img": "./scriptImage/else/chicken.jpg"
       },
       {
         "productName": "오리",
         "price": 25000,
         "grade": "1+",
         "sale": true,
-        "img": "./scriptImage/else/"
+        "img": "./scriptImage/else/duck.jpg"
       },
       {
         "productName": "사골",
         "price": 15000,
         "grade": "2",
         "sale": true,
-        "img": "./scriptImage/else/"
+        "img": "./scriptImage/else/sagol.jpg"
       }
     ]
   }

@@ -8,21 +8,21 @@
         "price": 15000,
         "grade": "1+",
         "sale": true,
-        "img": "./scriptImage/pork/"
+        "img": "./scriptImage/pork/samgyupsal.jpg"
       },
       {
         "productName": "차돌박이",
         "price": 20000,
         "grade": "1",
         "sale": true,
-        "img": "./scriptImage/pork/"
+        "img": "./scriptImage/pork/chadolbagi.jpeg"
       },
       {
         "productName": "등심",
         "price": 8000,
         "grade": "2",
         "sale": true,
-        "img": "./scriptImage/pork/"
+        "img": "./scriptImage/pork/duengsim.jpg"
       }
     ]
   }
