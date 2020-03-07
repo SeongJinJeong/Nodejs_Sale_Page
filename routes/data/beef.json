@@ -8,6 +8,7 @@
         "price": 20000,
         "grade": "1++",
         "sale": true,
+        "salePrice": 18000,
         "img": "./scriptImage/beef/yangji.jpg"
       },
       {
@@ -15,6 +16,7 @@
         "price": 30000,
         "grade": "1+",
         "sale": false,
+        "salePrice": 25000,
         "img": "./scriptImage/beef/sogalbi.jpg"
       },
       {
@@ -22,6 +24,7 @@
         "price": 15000,
         "grade": "2",
         "sale": false,
+        "salePrice": 14000,
         "img": "./scriptImage/beef/dungsim.jpg"
       }
     ]

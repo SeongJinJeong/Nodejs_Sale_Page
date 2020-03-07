@@ -8,6 +8,7 @@
         "price": 15000,
         "grade": "1+",
         "sale": true,
+        "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
       {
@@ -15,6 +16,7 @@
         "price": 20000,
         "grade": "1",
         "sale": true,
+        "salePrice": 17000,
         "img": "./scriptImage/pork/chadolbagi.jpeg"
       },
       {
@@ -22,6 +24,7 @@
         "price": 8000,
         "grade": "2",
         "sale": true,
+        "salePrice": 6500,
         "img": "./scriptImage/pork/duengsim.jpg"
       }
     ]
