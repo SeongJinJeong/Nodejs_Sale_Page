@@ -9,7 +9,8 @@
     "server": "node server.js",
     "client": "cd client && yarn start",
     "build": "cd client && serve -l 80 -s build",
-    "both": "concurrently \"npm run server\" \"npm run client\""
+    "both": "concurrently \"npm run server\" \"npm run client\"",
+    "bothBuild": "concurrently \"npm run server\" \"npm run build\""
   },
   "repository": {
     "type": "git",
