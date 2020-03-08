@@ -29,6 +29,7 @@ router.get("/api/else", (req, res) => {
 
 router.get("/api/sale", (req, res) => {
   res.json(allData);
+  console.log(allData.length);
 });
 
 router.get("/api/search", (req, res) => {
