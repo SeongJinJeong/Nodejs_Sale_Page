@@ -32,7 +32,7 @@
         "price": 10000,
         "grade": "1+",
         "comment": "3 근",
-        "sale": false,
+        "sale": true,
         "salePrice": 12000,
         "img": "./scriptImage/pork/duikdarisal.jpg"
       },
@@ -41,7 +41,7 @@
         "price": 10000,
         "grade": "1+",
         "comment": "2 근",
-        "sale": false,
+        "sale": true,
         "salePrice": 12000,
         "img": "./scriptImage/pork/daejigalbi.jpg"
       },
@@ -74,8 +74,8 @@
         "price": 5000,
         "comment": "1 벌",
         "grade": "1+",
-        "sale": false,
-        "salePrice": 12000,
+        "sale": true,
+        "salePrice": 10000,
         "img": "./scriptImage/pork/duengbbyo.jpeg"
       }
     ]
