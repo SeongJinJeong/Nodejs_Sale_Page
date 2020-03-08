@@ -5,15 +5,15 @@
     "data": [
       {
         "productName": "닭",
-        "price": 5000,
+        "price": 6000,
         "grade": "1++",
         "sale": false,
         "salePrice": 4000,
         "img": "./scriptImage/else/chicken.jpg"
       },
       {
-        "productName": "오리",
-        "price": 25000,
+        "productName": "훈제오리",
+        "price": 9000,
         "grade": "1+",
         "sale": true,
         "salePrice": 20000,
@@ -21,7 +21,17 @@
       },
       {
         "productName": "사골",
-        "price": 15000,
+        "price": 30000,
+        "comment": "1 개당",
+        "grade": "2",
+        "sale": true,
+        "salePrice": 13000,
+        "img": "./scriptImage/else/sagol.jpg"
+      },
+      {
+        "productName": "우족",
+        "price": 30000,
+        "comment": "1 개당",
         "grade": "2",
         "sale": true,
         "salePrice": 13000,

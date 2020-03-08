@@ -4,25 +4,89 @@
     "name": "beef",
     "data": [
       {
-        "productName": "양지",
-        "price": 20000,
-        "grade": "1++",
-        "sale": true,
-        "salePrice": 18000,
-        "img": "./scriptImage/beef/yangji.jpg"
-      },
-      {
-        "productName": "갈비",
-        "price": 30000,
+        "productName": "소갈비살",
+        "price": 9500,
         "grade": "1+",
         "sale": false,
         "salePrice": 25000,
         "img": "./scriptImage/beef/sogalbi.jpg"
       },
       {
-        "productName": "등심",
-        "price": 15000,
-        "grade": "2",
+        "productName": "꽃등심",
+        "price": 9500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "채끝살",
+        "price": 9500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "부채살",
+        "price": 9500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "치마살",
+        "price": 9500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "제비추리",
+        "price": 9500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "양지",
+        "price": 5000,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "치마양지",
+        "price": 6000,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "홍두깨",
+        "price": 5500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "아롱사태",
+        "price": 4500,
+        "grade": "1+",
+        "sale": false,
+        "salePrice": 14000,
+        "img": "./scriptImage/beef/dungsim.jpg"
+      },
+      {
+        "productName": "소불고기",
+        "price": 4500,
+        "grade": "1+",
         "sale": false,
         "salePrice": 14000,
         "img": "./scriptImage/beef/dungsim.jpg"
