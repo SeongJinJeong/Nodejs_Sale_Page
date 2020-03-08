@@ -17,7 +17,7 @@
         "grade": "1",
         "sale": false,
         "salePrice": 17000,
-        "img": "./scriptImage/pork/chadolbagi.jpeg"
+        "img": "./scriptImage/pork/moksal.jpg"
       },
       {
         "productName": "앞다리살",
@@ -25,7 +25,7 @@
         "grade": "2",
         "sale": false,
         "salePrice": 6500,
-        "img": "./scriptImage/pork/duengsim.jpg"
+        "img": "./scriptImage/pork/apdarisal.jpg"
       },
       {
         "productName": "뒷다리살",
@@ -34,7 +34,7 @@
         "comment": "3 근당",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/duikdarisal.jpg"
       },
       {
         "productName": "갈비",
@@ -43,7 +43,7 @@
         "comment": "2 근당",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/daejigalbi.jpg"
       },
       {
         "productName": "등갈비",
@@ -51,7 +51,7 @@
         "grade": "1+",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/duenggalbi.jpg"
       },
       {
         "productName": "안심",
@@ -59,7 +59,7 @@
         "grade": "1+",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/anshim.jpg"
       },
       {
         "productName": "아롱사태",
@@ -67,7 +67,7 @@
         "grade": "1+",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/alongsate.jpg"
       },
       {
         "productName": "등뼈",
@@ -76,7 +76,7 @@
         "grade": "1+",
         "sale": false,
         "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "img": "./scriptImage/pork/duengbbyo.jpeg"
       }
     ]
   }
