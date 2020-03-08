@@ -14,7 +14,7 @@
       {
         "productName": "목살",
         "price": 9900,
-        "grade": "1",
+        "grade": "1+",
         "sale": false,
         "salePrice": 17000,
         "img": "./scriptImage/pork/moksal.jpg"
@@ -22,7 +22,7 @@
       {
         "productName": "앞다리살",
         "price": 6900,
-        "grade": "2",
+        "grade": "1+",
         "sale": false,
         "salePrice": 6500,
         "img": "./scriptImage/pork/apdarisal.jpg"
