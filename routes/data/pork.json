@@ -7,7 +7,7 @@
         "productName": "삼겹살",
         "price": 10800,
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -15,7 +15,7 @@
         "productName": "목살",
         "price": 9900,
         "grade": "1",
-        "sale": true,
+        "sale": false,
         "salePrice": 17000,
         "img": "./scriptImage/pork/chadolbagi.jpeg"
       },
@@ -23,7 +23,7 @@
         "productName": "앞다리살",
         "price": 6900,
         "grade": "2",
-        "sale": true,
+        "sale": false,
         "salePrice": 6500,
         "img": "./scriptImage/pork/duengsim.jpg"
       },
@@ -32,7 +32,7 @@
         "price": 10000,
         "grade": "1+",
         "comment": "3 근당",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -41,7 +41,7 @@
         "price": 10000,
         "grade": "1+",
         "comment": "2 근당",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -49,7 +49,7 @@
         "productName": "등갈비",
         "price": 9900,
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -57,7 +57,7 @@
         "productName": "안심",
         "price": 6000,
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -65,7 +65,7 @@
         "productName": "아롱사태",
         "price": 6900,
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       },
@@ -74,7 +74,7 @@
         "price": 5000,
         "comment": "1 벌당",
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
       }

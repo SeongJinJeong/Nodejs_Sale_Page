@@ -15,7 +15,7 @@
         "productName": "훈제오리",
         "price": 9000,
         "grade": "1+",
-        "sale": true,
+        "sale": false,
         "salePrice": 20000,
         "img": "./scriptImage/else/duck.jpg"
       },
@@ -24,7 +24,7 @@
         "price": 30000,
         "comment": "1 개당",
         "grade": "2",
-        "sale": true,
+        "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/sagol.jpg"
       },
@@ -33,7 +33,7 @@
         "price": 30000,
         "comment": "1 개당",
         "grade": "2",
-        "sale": true,
+        "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/sagol.jpg"
       }
