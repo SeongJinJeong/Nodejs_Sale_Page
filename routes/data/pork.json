@@ -40,7 +40,7 @@
         "productName": "갈비",
         "price": 10000,
         "grade": "1+",
-        "comment":"2 근당"
+        "comment": "2 근당",
         "sale": true,
         "salePrice": 12000,
         "img": "./scriptImage/pork/samgyupsal.jpg"
