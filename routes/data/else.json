@@ -20,7 +20,7 @@
       {
         "productName": "사골",
         "price": 30000,
-        "comment": "1 개당",
+        "comment": "1 개",
         "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/sagol.jpg"
@@ -28,7 +28,7 @@
       {
         "productName": "우족",
         "price": 30000,
-        "comment": "1 개당",
+        "comment": "1 개",
         "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/ujok.jpg"

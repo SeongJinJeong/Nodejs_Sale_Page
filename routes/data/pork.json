@@ -31,7 +31,7 @@
         "productName": "뒷다리살",
         "price": 10000,
         "grade": "1+",
-        "comment": "3 근당",
+        "comment": "3 근",
         "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/duikdarisal.jpg"
@@ -40,7 +40,7 @@
         "productName": "갈비",
         "price": 10000,
         "grade": "1+",
-        "comment": "2 근당",
+        "comment": "2 근",
         "sale": false,
         "salePrice": 12000,
         "img": "./scriptImage/pork/daejigalbi.jpg"
@@ -72,7 +72,7 @@
       {
         "productName": "등뼈",
         "price": 5000,
-        "comment": "1 벌당",
+        "comment": "1 벌",
         "grade": "1+",
         "sale": false,
         "salePrice": 12000,
