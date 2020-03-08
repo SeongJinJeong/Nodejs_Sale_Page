@@ -29,20 +29,20 @@
       },
       {
         "productName": "뒷다리살",
-        "price": 10000,
+        "price": 12000,
         "grade": "1+",
         "comment": "3 근",
         "sale": true,
-        "salePrice": 12000,
+        "salePrice": 10000,
         "img": "./scriptImage/pork/duikdarisal.jpg"
       },
       {
         "productName": "갈비",
-        "price": 10000,
+        "price": 12000,
         "grade": "1+",
         "comment": "2 근",
         "sale": true,
-        "salePrice": 12000,
+        "salePrice": 10000,
         "img": "./scriptImage/pork/daejigalbi.jpg"
       },
       {
@@ -71,11 +71,11 @@
       },
       {
         "productName": "등뼈",
-        "price": 5000,
+        "price": 10000,
         "comment": "1 벌",
         "grade": "1+",
         "sale": true,
-        "salePrice": 10000,
+        "salePrice": 5000,
         "img": "./scriptImage/pork/duengbbyo.jpeg"
       }
     ]
