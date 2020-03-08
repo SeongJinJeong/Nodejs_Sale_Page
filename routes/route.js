@@ -13,6 +13,7 @@ router.get("/api/hello", (req, res) => {
 
 router.get("/api/main", (req, res) => {
   res.json(allData);
+  console.log(allData.length);
 });
 
 router.get("/api/beef", (req, res) => {
@@ -29,7 +30,6 @@ router.get("/api/else", (req, res) => {
 
 router.get("/api/sale", (req, res) => {
   res.json(allData);
-  console.log(allData.length);
 });
 
 router.get("/api/search", (req, res) => {
