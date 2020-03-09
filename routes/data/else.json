@@ -7,6 +7,7 @@
         "productName": "닭",
         "price": 6000,
         "sale": false,
+        "unit": "1 마리",
         "salePrice": 4000,
         "img": "./scriptImage/else/chicken.jpg"
       },
@@ -20,7 +21,7 @@
       {
         "productName": "사골",
         "price": 30000,
-        "comment": "1 개",
+        "unit": "1 개",
         "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/sagol.jpg"
@@ -28,7 +29,7 @@
       {
         "productName": "우족",
         "price": 30000,
-        "comment": "1 개",
+        "unit": "1 개",
         "sale": false,
         "salePrice": 13000,
         "img": "./scriptImage/else/ujok.jpg"
