@@ -77,11 +77,11 @@
       },
       {
         "productName": "등뼈",
-        "price": 10000,
-        "unit": "1 벌",
+        "price": 16000,
+        "unit": "2 벌",
         "grade": "1+",
         "sale": true,
-        "salePrice": 5000,
+        "salePrice": 10000,
         "img": "./scriptImage/pork/duengbbyo.jpeg"
       }
     ]
