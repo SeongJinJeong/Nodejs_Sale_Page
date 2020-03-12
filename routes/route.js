@@ -4,7 +4,7 @@ const beefData = require("./data/beef.json");
 const porkData = require("./data/pork.json");
 const elseData = require("./data/else.json");
 
-const allData = [beefData[0].data, porkData[0].data, elseData[0].data];
+const allData = [porkData[0].data, beefData[0].data, elseData[0].data];
 
 router.get("/api/hello", (req, res) => {
   // app 대신 router에 연결
