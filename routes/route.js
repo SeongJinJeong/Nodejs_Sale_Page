@@ -3,8 +3,14 @@ const router = express.Router(); // 라우터 분리
 const beefData = require("./data/beef.json");
 const porkData = require("./data/pork.json");
 const elseData = require("./data/else.json");
+const seasonData = require("./data/season.json");
 
-const allData = [porkData[0].data, beefData[0].data, elseData[0].data];
+const allData = [
+  porkData[0].data,
+  beefData[0].data,
+  seasonData[0].data,
+  elseData[0].data
+];
 
 router.get("/api/hello", (req, res) => {
   // app 대신 router에 연결
@@ -26,6 +32,10 @@ router.get("/api/pork", (req, res) => {
 
 router.get("/api/else", (req, res) => {
   res.json(elseData);
+});
+
+router.get("/api/season", (req, res) => {
+  res.json(seasonData);
 });
 
 router.get("/api/sale", (req, res) => {

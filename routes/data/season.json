@@ -1,0 +1,17 @@
+[
+  {
+    "test": "Beef data get Completed",
+    "name": "beef",
+    "data": [
+      {
+        "productName": "삼겹살",
+        "price": 10800,
+        "grade": "1+",
+        "unit": "1 근",
+        "sale": false,
+        "salePrice": 12000,
+        "img": "./scriptImage/pork/samgyupsal.jpg"
+      }
+    ]
+  }
+]
