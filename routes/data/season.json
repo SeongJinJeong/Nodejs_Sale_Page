@@ -4,13 +4,40 @@
     "name": "beef",
     "data": [
       {
-        "productName": "삼겹살",
-        "price": 10800,
-        "grade": "1+",
+        "productName": "소불고기",
+        "price": 12000,
+        "grade": "미국산",
         "unit": "1 근",
-        "sale": false,
-        "salePrice": 12000,
-        "img": "./scriptImage/pork/samgyupsal.jpg"
+        "sale": true,
+        "salePrice": 8400,
+        "img": "./scriptImage/season/sobulgogiYangnyum.jpg"
+      },
+      {
+        "productName": "LA갈비",
+        "price": 21000,
+        "grade": "미국산",
+        "unit": "1 근",
+        "sale": true,
+        "salePrice": 16800,
+        "img": "./scriptImage/season/lagalbi.jpg"
+      },
+      {
+        "productName": "고추장불고기",
+        "price": 6000,
+        "grade": "국내산",
+        "unit": "1 근",
+        "sale": true,
+        "salePrice": 4000,
+        "img": "./scriptImage/season/gochubulgogi.jpeg"
+      },
+      {
+        "productName": "주물럭",
+        "price": 6000,
+        "grade": "미국산",
+        "unit": "1 근",
+        "sale": true,
+        "salePrice": 4000,
+        "img": "./scriptImage/season/jumulunck.jpeg"
       }
     ]
   }
